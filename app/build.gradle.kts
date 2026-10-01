@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.webtoapp.app"
+    namespace = "com.sarner.feed"
     compileSdk = 34
 
     defaultConfig {
